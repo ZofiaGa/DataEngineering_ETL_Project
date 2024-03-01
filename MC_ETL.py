@@ -1,3 +1,8 @@
+# In VS IDE terminal the following installation need to be done:
+# pip install requests
+# pip install pandas
+# pip install bs4
+
 import requests
 import sqlite3
 import pandas as pd
